@@ -1,5 +1,7 @@
 # Urban Mobility Data Analysis Pipeline
 
+This repository accompanies our paper on urban mobility resilience under extreme disasters. The `san_jose_pipeline/` section provides the complete code and private SafeGraph datasets to reproduce the empirical results (degree distribution `pk` and net inflow distribution `px`) presented in the paper. You can run the pipeline on the included datasets to verify and replicate the figures reported in our study.
+
 ## Directory Structure
 
 ```
